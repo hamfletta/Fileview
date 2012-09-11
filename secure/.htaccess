@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Access to /fileview/secure"
+AuthUserFile /kunden/homepages/42/d242362122/htpasswd
+Require user hamfletta

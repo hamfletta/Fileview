@@ -1,0 +1,18 @@
+TODO
+
+Add help for all file types
+Add more file types + icons
+
+Add converted / preview feature
+	
+	PDF and word
+convert files- > Do at end
+
+fix STUPID FUCKING IE BUGS!!! GAH I GIVE UP!
+
+
+
+NEXT STEPS
+
+Look at converting more files for "web friendly" use
+Fix bugs in IE

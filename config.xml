@@ -1,0 +1,16 @@
+<?xml version='1.0' standalone='yes'?>
+<config>
+	<root>/KS3</root>
+	<folderXML>folderList.xml</folderXML>
+	<iconRowCount>3</iconRowCount>
+	<exclusionList>
+		<excludeFile>files.xml</excludeFile>
+		<excludeFile>.</excludeFile>
+		<excludeFile>..</excludeFile>
+		<excludeFile>config.xml</excludeFile>
+		<excludeFile>folderList.xml</excludeFile>
+		<excludeFile>KS3resources.html</excludeFile>
+		<excludeFile>Thumbs.db</excludeFile>
+		<excludeFile>converted</excludeFile>
+	</exclusionList>
+</config>
